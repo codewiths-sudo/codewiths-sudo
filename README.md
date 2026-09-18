@@ -12,7 +12,7 @@
 </p>
 
 **Languages:** C
-**Version Control:** Git, GitHub
+**Version Control:** GitHub
 **IDE / Editor:** Sublime Text
 **Development Environment:** Windows, GCC
 **Git Client:** GitHub Desktop
