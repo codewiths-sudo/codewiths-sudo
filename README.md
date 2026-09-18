@@ -9,6 +9,10 @@
      width="45"
      height="45"
      alt="Sublime Text">
+  <img src="./assets/github-desktop.png"
+     width="45"
+     height="45"
+     alt="GitHub Desktop">
 </p>
 
 **Languages:** C
