@@ -9,6 +9,7 @@
      width="45"
      height="45"
      alt="Sublime Text">
+  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
   
 **Languages:** C
 **Version Control:** GitHub
