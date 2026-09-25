@@ -14,5 +14,5 @@
 **Languages:** C
 **Version Control:** GitHub
 **IDE / Editor:** Sublime Text
-**Development Environment:** Windows, GCC
+**Development Environment:** Windows, GCC , Debain(WSL 1)
 **Git Client:** GitHub Desktop
