@@ -11,4 +11,4 @@
 **Languages:** C
 **Version Control:** GitHub(cloud),Git
 **IDE / Editor:** Sublime Text
-**Development Environment:** Linux(mint), GCC.
+**Development Environment:** Linux, GCC.
