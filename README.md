@@ -9,7 +9,7 @@
 </p>
 <img src="https://img.shields.io/badge/AI_Agent-Gemini-8E7CC3?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini AI" />
 
-**Languages:** C
+**Programming Languages:** C
 **Version Control:** Git,GitHub
 **IDE / Editor:** Sublime Text,GNU Nano
 **Development Environment:** Linux, GCC.
