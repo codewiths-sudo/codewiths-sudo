@@ -11,6 +11,6 @@
 
 **Languages:** C
 **Version Control:** Git,GitHub
-**IDE / Editor:** Sublime Text
+**IDE / Editor:** Sublime Text,Gnu Nano
 **Development Environment:** Linux, GCC.
 **Ai Agent:** Google Gemini
