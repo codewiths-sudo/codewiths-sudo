@@ -8,10 +8,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45" alt="Linux Mint" />
 </p>
 <img src="https://img.shields.io/badge/AI_Agent-Gemini-8E7CC3?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini AI" />
-![Linux](https://img.shields.io/badge/OS-Linux_Mint-1793D1?style=for-the-badge&logo=linux&logoColor=white)
+<img src="https://img.shields.io/badge/GNU_Nano-383838?style=for-the-badge&logo=gnu&logoColor=white" alt="GNU Nano">
 
 **Programming Languages:** C
-**Version Control:** Git,GitHub
-**IDE / Editor:** Sublime Text,GNU Nano
+**Version Control:** Git,GitHub.
+**IDE / Editor:** Sublime Text,GNU Nano.
 **Development Environment:** Linux, GCC.
-**Ai Agent:** Google Gemini
+**A.I. Agent:** Google Gemini.
