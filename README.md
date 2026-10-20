@@ -1,3 +1,6 @@
+> *"Everybody in this country should learn to program a computer, because it teaches you how to think."*  
+> — **Steve Jobs**
+
 ## Tools & Environment
 
 <p align="left">
