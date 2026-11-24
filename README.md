@@ -1,6 +1,6 @@
 # Hi, I'm Shayan
 
-I am learning C and try modern tool building small projects on Linux.
+I am learning C and try modern tool and building small projects on Linux.
 
 ## About Me
 - Interested in open-source software
