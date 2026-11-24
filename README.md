@@ -27,4 +27,4 @@ I am learning C and try modern tool and building small projects on Linux.
 **Version Control:** Git,GitHub.
 **IDE / Editor:** Sublime Text,GNU Nano.
 **Development Environment:** Linux, GCC.
-**A.I. Agent:** Google Gemini.
+**A.I. Agent:** Google Gemini, Github Copilot.
