@@ -1,3 +1,13 @@
+# Hi, I'm Shayan
+
+I am learning C and try modern tool building small projects on Linux.
+
+## About Me
+- Interested in open-source software
+- Working toward remote software-development opportunities
+- Interested in technology entrepreneurship
+- Believe that useful projects should be built through practice and independent thinking
+
 > *"Everybody in this country should learn to program a computer, because it teaches you how to think."*  
 > — **Steve Jobs**
 
